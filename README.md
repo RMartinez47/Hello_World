@@ -1,2 +1,4 @@
 # Hello_World
-First ever
+
+I am Ricardo, a southamerican "taurus" living in the North (New England)...
+
